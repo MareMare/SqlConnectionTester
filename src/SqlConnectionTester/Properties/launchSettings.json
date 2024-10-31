@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GlobTester": {
+      "commandName": "Project",
+      "commandLineArgs": "\"**\" \"!bin/**\" \"!obj/**\"",
+      "workingDirectory": ".\\"
+    }
+  }
+}
